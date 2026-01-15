@@ -1,4 +1,6 @@
 # TODO → GitHub Issues Automation
+<img width="1020" height="556" alt="TODO-TO-ISSUES" src="https://github.com/user-attachments/assets/4056f73f-3462-4373-a411-9adb19b619d2" />
+
 
 ### Title-Based Anchoring with Rich Metadata
 
